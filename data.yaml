@@ -1,0 +1,5 @@
+train: D:/work/python/pythonProject/dataset/images/train
+val: D:/work/python/pythonProject/dataset/images/val
+
+nc: 2  # 类别数
+names: ['no_mask','Mask']  # 类别名称
